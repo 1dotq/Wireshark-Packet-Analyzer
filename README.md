@@ -2190,11 +2190,4 @@ Browser should open automatically at `http://localhost:3000`
 - Add progress indicators for long analyses
 - Implement caching for repeated analyses
 
-## Next Steps
-
-1. **Add more visualizations** (network graphs, geolocation)
-2. **Implement real-time capture** using pyshark LiveCapture
-3. **Add export functionality** (PDF reports, CSV data)
-4. **Enhance security analysis** (threat detection, anomaly detection)
-
 Your PCAP analyzer should now be fully functional on Windows!
