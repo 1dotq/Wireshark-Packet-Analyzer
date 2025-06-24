@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/72336f70-6340-4bf2-86bd-6b83042335c9)
 # Wireshark-Packet-Analyzer
 An app for analyzing Wireshark pcap files with visual data representation! This is a great idea for network analysis and troubleshooting.
 Here is a step-by-step guide to set up your PCAP analyzer on Windows. Here's what this guide includes:
